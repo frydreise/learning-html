@@ -2,6 +2,7 @@
 
 ##Required installations: 
 **Git:** https://git-scm.com/book/en/v2/Getting-Started-Installing-Git 
+
 **Some kind of text editor:** Here you have a range of options. Lately I've been playing with VSCode, which is quite nice. 
 
 ##Setting up this project. 
@@ -17,7 +18,7 @@
     * Mac: Your terminal is called, helpfully, Terminal. I've been using iTerm and enjoying it.
     * PC: Your terminal is called cmd. 
 
-6. To clone the project to your local machine, enter `git clone https://github.com/frydreise/learning-html.git` into your terminal. 
+6. To clone the project to your local machine, enter `git clone https://github.com/[your user name]/learning-html.git` (it the URL will be in your clipboard) into your terminal. 
 7. You now have a local version of the project. Let's get started. 
 
 Once you have reached this point, put your hand up and ask your teacher for more instructions. 
