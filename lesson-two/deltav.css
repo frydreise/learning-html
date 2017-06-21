@@ -1,0 +1,32 @@
+body
+{
+}
+
+
+img
+{
+	height: 50px;
+}
+
+h1,h3
+{
+	text-align: center;
+}
+
+
+.img-rhs
+{
+	text-align: right;
+}
+
+
+.img-lhs
+{
+	text-align: left;
+}
+
+
+.screenshot-placeholder
+{
+	width: 100px;
+{
