@@ -1,11 +1,11 @@
-#Course to teach HTML
+# Course to teach HTML
 
-##Required installations: 
+## Required installations: 
 **Git:** https://git-scm.com/book/en/v2/Getting-Started-Installing-Git 
 
 **Some kind of text editor:** Here you have a range of options. Lately I've been playing with VSCode, which is quite nice. 
 
-##Setting up this project. 
+## Setting up this project. 
 1. Create a github account (or log in to your github account if you have one). Good job! 
 
 2. This is the project that you'll want to make changes to. BUT - you don't own it. So we want to fork the repository into your own account and then you can work on your own fork. In the top right corner of this page, there's a `fork` button. Click it. 
